@@ -1,4 +1,16 @@
-### Hi there 👋
+### 👋 Hi I'm Nolan
+
+- I'm currently working on astrodynamics processing in Golang
+- I'm building my blog with Markdown, Golang, HTML, and CSS
+- I'm interested in real-time data flows and processing
+- I'm currently building my skills in Golang
+
+### Skills
+
+![go](https://img.shields.io/badge/go-000000?style=for-the-badge&logo=go&logoColor=#00ADD8)
+![html](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=#E34F26)
+![css](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=#1572B6)
+
 
 <!--
 **voracity-io/voracity-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +27,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![go](https://img.shields.io/badge/go-000000?style=for-the-badge&logo=go&logoColor=#00ADD8)
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+

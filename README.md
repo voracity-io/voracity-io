@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ![](https://img.shields.io/badge/go-000000?style=for-the-badge&logo=go&logoColor=#00ADD8)
+![go](https://img.shields.io/badge/go-000000?style=for-the-badge&logo=go&logoColor=#00ADD8)
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]

@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![go](https://img.shields.io/badge/go-000000?style=for-the-badge&logo=go&logoColor=#00ADD8)
+## ![](https://img.shields.io/badge/go-000000?style=for-the-badge&logo=go&logoColor=#00ADD8)
